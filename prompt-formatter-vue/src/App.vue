@@ -23,7 +23,7 @@
           />
           <span
             style="
-              color: #9cff24;
+              color: #a0ce6d;
               font-size: 2rem;
               font-weight: 700;
               font-family: 'Orbitron', sans-serif;
@@ -94,7 +94,7 @@ import { InfoCircleOutlined } from "@vicons/antd";
 
 const themeOverrides = {
   common: {
-    primaryColor: "#9cff24",
+    primaryColor: "#A0CE6D",
     primaryColorHover: "#baff52",
     primaryColorPressed: "#86cc1f",
     primaryColorSuppl: "#9cff24",
