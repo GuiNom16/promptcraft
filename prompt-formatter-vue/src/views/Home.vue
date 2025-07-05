@@ -97,7 +97,8 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted } from "vue";
-import { useTemplates, PromptTemplate } from "../composables/useTemplates";
+import { useTemplates } from "../composables/useTemplates";
+import type { PromptTemplate } from "../composables/useTemplates";
 import { v4 as uuidv4 } from "uuid";
 import { useMessage } from "naive-ui";
 import copy from "copy-to-clipboard"; // make sure to install this or use native API

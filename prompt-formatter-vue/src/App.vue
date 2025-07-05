@@ -90,8 +90,6 @@
 </template>
 
 <script setup lang="ts">
-import { InfoCircleOutlined } from "@vicons/antd";
-
 const themeOverrides = {
   common: {
     primaryColor: "#A0CE6D",
