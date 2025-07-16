@@ -8,7 +8,7 @@ PromptCraft is a lightweight, web-based tool for building structured, reusable p
 
 ## 🔗 Live Demo
 
-👉 [https://promptcraft.vercel.app](https://promptcraft.vercel.app)  
+👉 [https://promptcraft.vercel.app](https://promptcraft-blush.vercel.app/)  
 _(Hosted on Vercel)_
 
 ---
